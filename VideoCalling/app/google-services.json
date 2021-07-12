@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939628390904",
+    "project_id": "housepartyagora-16eaa",
+    "storage_bucket": "housepartyagora-16eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939628390904:android:bf267de9d8a086d2bc4e0d",
+        "android_client_info": {
+          "package_name": "com.example.housepartyagora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939628390904-broj7tpdrlingp11f2tq6dp5o27gao0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHv_3xe8yIaS3M9saYuE31Y28zQBydN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939628390904-broj7tpdrlingp11f2tq6dp5o27gao0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
